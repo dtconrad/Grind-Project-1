@@ -9,7 +9,7 @@ So that I feel intrigued by the brand, confident in the quality of the food, and
 **Acceptance Criteria:**
 Showcase the Brand's Upscale Identity:
 
--The homepage must prominently display Grind's logo and tagline (e.g., "Elevating Memphis BBQ to an Art Form").
+-The homepage must prominently display Grind's logo and tagline (e.g., "Where the smoke is thick, the sauce is slick, and the ribs are worth the trip!").
 -Use high-quality, professionally shot images of signature BBQ dishes, the restaurant’s interior, and Memphis-inspired elements.
 -Include a section highlighting Grind's unique approach to Memphis BBQ, emphasizing premium ingredients, expert techniques, and a refined dining experience.
 

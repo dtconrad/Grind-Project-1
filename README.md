@@ -1,4 +1,5 @@
 # Grind-Project-1
+
 Overview/Description of the Project
 The Grind BBQ website is designed to reflect the restaurant's upscale identity while emphasizing its passion for Memphis BBQ traditions. The site provides an engaging and user-friendly experience for customers to explore the menu, learn about the restaurant's story, make reservations, and place online orders. The design is visually appealing, mobile-friendly, and organized to highlight Grind BBQ’s unique offerings, such as dry-rub ribs, pulled pork sandwiches, and seasonal specials.
 
